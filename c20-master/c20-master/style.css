@@ -1,0 +1,5 @@
+.item{
+  display:flex;
+  background-image: linear-gradient(to right, pink, cyan, yellow);
+  justify-content: center;
+}
